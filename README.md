@@ -1,3 +1,3 @@
 ### Lost in the stars
 
-🚧 under construction 🚧
+Working as Front Developer, building some stuff breaking another
