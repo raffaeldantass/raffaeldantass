@@ -1,3 +1,8 @@
-### Lost in the stars
+### Software Developer
 
-Working as Front Developer, building some stuff breaking another
+Currently working as a Software Developer at Ambush working with the technologies below: 
+
+- Docker
+- Go | Postgree
+- AWS (EC2, RDS, S3)
+- Javascript (Node and the whole React ecosystem)
